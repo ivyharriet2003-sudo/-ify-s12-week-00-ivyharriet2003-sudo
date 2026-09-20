@@ -1,5 +1,4 @@
 # Week 0 - Ivy Harriet
-- Name: Ivy Harriet
-- Season: S12
-- Goal: Become a confident programmer
-- GitHub: ivyharriet2003-sudo
+Student: ivyharriet2003-sudo
+Live Link: https://ivyharriet2003-sudo.github.io/-ify-s12-week-00-ivyharriet2003-sudo/
+Repo: https://github.com/ivyharriet2003-sudo/-ify-s12-week-00-ivyharriet2003-sudo
