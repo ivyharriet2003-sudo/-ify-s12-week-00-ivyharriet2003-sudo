@@ -16,3 +16,4 @@ Hello, I am Ivy, a student of IFY S12. I am learning web development.
 ### Code Example
 ```html
 <h1>Hello World</h1>
+Fixed bio
